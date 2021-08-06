@@ -1,0 +1,2 @@
+2021-07-29 08:52:24	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/gva?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-29 09:07:33	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/gva?charset=utf8mb4&parseTime=True&loc=Local"}

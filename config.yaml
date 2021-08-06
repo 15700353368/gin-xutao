@@ -1,0 +1,24 @@
+mysql:
+  path: 192.168.1.254:3306
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  db: readline_user
+  username: test
+  password: test123456
+  max-idle-conns: 0
+  max-open-conns: 0
+  log-mode: ""
+  log-zap: false
+system:
+  env: public
+  addr: :8001
+  db-type: mysql
+  oss-type: local
+  use-multipoint: false
+  ucsKey: 123456
+  ucsTimeStamp: 1200
+zap:
+  director: ./log/
+redis:
+  db: 7
+  addr: 127.0.0.1:6379
+  password: ""

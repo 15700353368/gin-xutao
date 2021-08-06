@@ -1,0 +1,39 @@
+2021-08-06 10:31:56	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/gva?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 10:32:02	ERROR	initialize/gorm.go:23	数据库连接出错	{"mysql": "dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it."}
+2021-08-06 10:32:02	INFO	initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 10:33:50	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 10:33:53	INFO	initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 10:36:20	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 10:36:25	INFO	initialize/redis.go:24	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 10:50:13	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 10:50:38	ERROR	initialize/redis.go:22	redis connect ping failed, err:	{"err": "dial tcp 192.168.1.79:6379: i/o timeout"}
+2021-08-06 10:54:28	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 10:54:54	ERROR	initialize/redis.go:22	redis connect ping failed, err:	{"err": "dial tcp 192.168.1.79:6379: i/o timeout"}
+2021-08-06 10:55:27	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 10:55:50	ERROR	initialize/redis.go:22	redis connect ping failed, err:	{"err": "dial tcp 192.168.1.79:6379: i/o timeout"}
+2021-08-06 10:59:10	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 10:59:34	ERROR	initialize/redis.go:24	redis connect ping failed, err:	{"err": "dial tcp 192.168.1.79:6379: i/o timeout"}
+2021-08-06 11:00:55	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:00:59	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:23:39	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:23:43	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:25:18	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:25:23	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:29:40	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:29:43	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:30:42	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:30:42	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:33:11	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:33:11	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:33:39	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:33:39	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:34:35	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:34:36	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:42:56	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:42:56	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 11:57:36	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 11:57:37	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 12:01:30	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 12:01:30	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}
+2021-08-06 12:02:28	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "test:test123456@tcp(192.168.1.254:3306)/readline_user?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-08-06 12:02:28	INFO	initialize/redis.go:26	redis connect ping response:	{"pong": "PONG"}

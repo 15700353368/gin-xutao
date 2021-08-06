@@ -1,0 +1,12 @@
+2021-07-28 16:33:29	INFO	gin-xutao/main.go:23	server run success on 	{"address": "8008"}
+2021-07-28 16:58:01	ERROR	initialize/gorm.go:14	数据库连接出错	{"mysql": "Error 1045: Access denied for user 'root'@'gateway' (using password: YES)"}
+2021-07-28 17:34:53	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:36:36	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:37:36	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:38:28	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:39:51	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/gva?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:40:40	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:41:21	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:42:05	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/gva?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:43:37	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/gva?charset=utf8mb4&parseTime=True&loc=Local"}
+2021-07-28 17:53:52	INFO	initialize/gorm.go:14	MYSQL链接信息	{"mysql": "root:123456@tcp(127.0.0.1:3306)/gva?charset=utf8mb4&parseTime=True&loc=Local"}
