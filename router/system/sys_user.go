@@ -9,6 +9,7 @@ type SysUserRouter struct {
 
 }
 
+//
 func (p *SysUserRouter)InitSystemUserRouter(Router *gin.RouterGroup) (R gin.IRoutes) {
 	baseRouter := Router.Group("sys")
 
